@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosefseptian1
-- 👀 I’m interested in DevOps Engineer
-- 🌱 I’m currently learning Automation Server
+- 👀 I’m interested in DevOps Engineer and Web Developer
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
